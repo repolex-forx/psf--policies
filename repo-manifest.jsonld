@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/psf/policies/commit/e767816f9675d0b63089de873ddd89744a47c6b2",
       "git:hexsha": "e767816f9675d0b63089de873ddd89744a47c6b2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T05:56:53.755307+00:00"
     },
     {
       "@id": "https://repolex.ai/r/psf/policies/commit/8d8126d592532106588adf973803ae32b7d3ff01",
